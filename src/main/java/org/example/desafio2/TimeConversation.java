@@ -20,7 +20,6 @@ public class TimeConversation {
             System.out.println("Data e hora em UTC: " + formatDate);
 
             entradaValida = true;
-
         }
     }
 }
